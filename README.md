@@ -1,5 +1,7 @@
 # ASLAM system
 
+We present an active simultaneous localisation and mapping system that optimises the pose of the sensor for the 3D reconstruction of an environment, while a 2D Rapidly-Exploring Random Tree algorithm controls the motion of the mobile platform for the ground exploration strategy. You can find a video demo in simulation here: https://www.youtube.com/watch?v=NAPj3_A2e74.
+
 ## Installation
 
 Move and install outside the ROS workspace the uncertainty octomap package: aslam_system/octomap
